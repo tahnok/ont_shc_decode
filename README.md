@@ -161,6 +161,11 @@ OR
 pip install -r requirements.txt
 ```
 
+## TODO
+
+ - verify signature, not sure where the `.well-known/jwjks.json` is for Ontario
+ - read in the PDF or an image with a QR Code?
+
 ## Refs
  - https://www.roguelazer.com/2021/06/cdph-digital-vaccine-record/#fnref:pip-install
  - https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/
